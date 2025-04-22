@@ -1,2 +1,3 @@
-# sales-forecasting-ui
-Full-stack sales forecasting app with GPT, quotas, and dashboards
+# Sales Forecasting UI
+
+Full-stack sales forecasting app with dummy login, role-based views, GPT summaries, and quota tracking.
